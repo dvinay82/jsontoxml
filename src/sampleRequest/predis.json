@@ -1,0 +1,36 @@
+{
+  "PaymentInfo":
+    {
+      "wireOriginationLOB": "WHL",
+      "wireOriginationChannel": "CEO",
+      "debitAccountType": "D",
+      "debitAccountNumber": "20570",
+      "transferDate": "2022-01-11",
+      "transferAmount": "1450",
+      "receiverCreditCurrency": "USD",
+      "chargeOption": "SHA"
+    },
+  "RecipientInfo":
+   {
+    "name": "CHO001-03"
+   },
+  "BenificiaryBank":
+   {
+    "bankID": "SWIFT",
+    "bankIDValue": "gsdwfres"
+   },
+  "skillSetNew": [
+    {
+      "skillName": "java",
+      "category": "server programming"
+    },
+    {
+      "skillName": "angular",
+      "category": "frontend programming"
+    },
+    {
+      "name": "mongodb",
+      "category": "database"
+    }
+  ]
+}

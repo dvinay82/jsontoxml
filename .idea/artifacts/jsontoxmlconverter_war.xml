@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jsontoxmlconverter:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>jsontoxmlconverter</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="jsontoxmlconverter-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="jsontoxmlconverter:war exploded" />
+    </root>
+  </artifact>
+</component>
